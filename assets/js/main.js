@@ -26,7 +26,7 @@ dp(document).ready(function() {
         "muted": "muted", // change value "muted" or "no"
         "width": 1280,
         "height": 720,
-        "path": "video/",
+        "path": "assets/video/",
         "filename": "csgo",
         "types": ["mp4", "ogg", "webm"]
     });
