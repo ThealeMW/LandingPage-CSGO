@@ -1,0 +1,66 @@
+/* CSS crunched with Crunch - http://crunchapp.net/ */
+.navbar .navbar-brand {
+  background: #f50;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  background-color: #f50;
+}
+.dropdown-menu {
+  background-color: #f50;
+}
+a {
+  color: #f50;
+}
+.main-color {
+  color: #f50;
+}
+.slides-navigation a:hover {
+  background: #f50;
+}
+.slides-pagination a.current {
+  background: #f50;
+}
+.header-center a:hover {
+  color: #f50;
+}
+.totop:hover span > a.hover {
+  color: #f50;
+}
+.left-icon .icon {
+  background: #f50;
+}
+.styled div span {
+  background: #f50;
+}
+footer.footer {
+  background: #141616;
+}
+.post .post-meta .post-icon:hover {
+  background: #f50;
+}
+.post .post-meta span a {
+  color: #f50;
+}
+.post .read-more {
+  border: 1px solid #f50;
+}
+.mejs-controls .mejs-time-rail .mejs-time-current {
+  background-color: #f50;
+}
+.mejs-horizontal-volume-current {
+  background: #f50;
+}
+.skill-bar ul li .bar {
+  background: #f50;
+}
+.pagination .pag-prev a,
+.pagination .pag-next a {
+  background: #f50;
+  border-color: #f50;
+}
+.testimonial-list .testimonial-item a.current ~ .testi-link,
+.testimonial-list .testimonial-item a:hover ~ .testi-link {
+  background: rgba(44, 222, 151, 0.8);
+}
