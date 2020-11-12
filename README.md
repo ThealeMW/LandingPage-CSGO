@@ -1,6 +1,8 @@
 # LandingPage-CSGO
  Old project for a website that never made it live :(
- 
+ <br>
+ ![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg) ![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg) ![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)
+
  # Preview
 
 ![alt text](https://cdn.thealemw.com/lVaYvx.png)
