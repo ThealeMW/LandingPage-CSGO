@@ -10,9 +10,9 @@
  1. Bootstrap
  1. Jquery
  1. CSS
- 1. Venobox (CSS)
- 1. Animate (CSS)
- 1. Grid (JS)
+ 1. Venobox
+ 1. Animate
+ 1. Grid 
 
 ## Usage
 
