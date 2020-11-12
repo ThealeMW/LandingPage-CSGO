@@ -1,14 +1,18 @@
 # LandingPage-CSGO
  Old project for a website that never made it live :(
+ 
+ # Preview
 
-#Features
+![alt text](https://cdn.thealemw.com/lVaYvx.png)
+
+# Features
 
  1. Bootstrap
  1. Jquery
  1. CSS
- 1. Venobox
- 1. Animate
- 1. Grid
+ 1. Venobox (CSS)
+ 1. Animate (CSS)
+ 1. Grid (JS)
 
 ## Usage
 
